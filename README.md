@@ -33,7 +33,12 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
  ## My Skills
 
-<h3 align="left">Languages and Tools:</h3>
+###
+
+<h3 align="center">Tech Skills</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -51,8 +56,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-<a href="https://seaborn.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
 <!-- <div align="center">
