@@ -18,7 +18,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.hackerrank.com/profile/sehbakhan">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank"/> 
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samiksha mirjha" height="30" width="40" />
   </a>
     
   
