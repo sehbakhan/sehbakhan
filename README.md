@@ -1,6 +1,16 @@
-## Hi there! I'm Sehba 👋
+<h1 align="center">👋 Hi, 
+  I'm Samiksha Mirjha</h1>
+<h3 align="center">An aspiring Data Analyst from India eager to launch my career in the dynamic field of data science. With a strong foundation in SQL, Python, and Pandas. I am well-equipped to analyze complex datasets and uncover valuable insights. My passion for data visualization allows me to transform raw data into compelling stories that drive informed decision-making.</h3>
 
-As a dedicated data enthusiast, I possess a strong foundation in Data Science and Data Analytics. My ability to extract meaningful insights from intricate datasets enables me to craft actionable strategies that drive results. Throughout my data science journey, I have engaged in a diverse range of projects, including predictive modelling and data visualization, that showcase my skills and passion.
+- 🌱 I’m currently learning **Data Analysis**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/samiksha-mirjha-portfolio/home)
+
+- 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
+
+- 📫 How to reach me **sehbakhan43@gmail.com**
+
+- 📄 Know about me [My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=673ed9d07ca4c4119e94da36)
 
 My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
 
@@ -9,9 +19,11 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 ## <h2 align=left> Connect with me </h2>
 
  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="mailto:sehbakhan43@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.hackerrank.com/profile/sehbakhan" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samiksha mirjha"  
+    height="30" width="40" /></a>
+    
+  
   <a href="https://github.com/sehbakhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
