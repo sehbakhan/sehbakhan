@@ -45,8 +45,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <img width="8" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="38" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="38" alt="postgresql logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="38" alt="pandas logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="38" alt="numpy logo"  />
