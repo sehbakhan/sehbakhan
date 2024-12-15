@@ -2,6 +2,12 @@
   I'm Sehba</h1>
 <h3 align="center">Aspiring Data Analyst from India, eager to start my career in data science. I have a solid foundation in SQL, Python, and Pandas enabling me to analyze complex datasets and extract valuable insights. My passion for data visualization helps me turn raw data into compelling narratives that facilitate informed decision-making.</h3>
 
+<div align="center">
+  <h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/khushikumari05/count.svg" height="50" alt="Profile Views"  />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushikumari05" alt="khushikumari05" /></a> </p>
+</div>
+
 - 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
@@ -28,7 +34,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <a href="https://leetcode.com/u/sehbakhan43/">
     <img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&color=%23000" alt="Leetcode"/>
   </a> -->
-  
+
 </div>
 
  ## My Skills
