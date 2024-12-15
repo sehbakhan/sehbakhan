@@ -24,8 +24,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   </a>
   <a href="https://www.linkedin.com/in/sehbakhan27/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
-     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  </a>
   <a href="https://www.hackerrank.com/profile/sehbakhan">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samiksha mirjha" height="30" width="40" />
   </a>
