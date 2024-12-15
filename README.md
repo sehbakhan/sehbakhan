@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, 
-  I'm Samiksha Mirjha</h1>
+  I'm Sehba</h1>
 <h3 align="center">An aspiring Data Analyst from India eager to launch my career in the dynamic field of data science. With a strong foundation in SQL, Python, and Pandas. I am well-equipped to analyze complex datasets and uncover valuable insights. My passion for data visualization allows me to transform raw data into compelling stories that drive informed decision-making.</h3>
 
 - 🌱 I’m currently learning **Data Analysis**
