@@ -31,8 +31,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 </div>
 
- ## My Skills
-
 ###
 
 <h3 align="center">Tech Skills</h3>
