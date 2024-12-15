@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+As a dedicated data enthusiast, I possess a strong foundation in Data Science and Data Analytics. My ability to extract meaningful insights from intricate datasets enables me to craft actionable strategies that drive results. Throughout my data science journey, I have engaged in a diverse range of projects, including predictive modelling and data visualization, that showcase my skills and passion.
+
+My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
+
+I am excited about the opportunity to collaborate on data-driven initiatives, delve into predictive modelling, and contribute to open-source analytics and machine learning projects. Let’s harness the power of data together!
 <!--
-**sehbakhan/sehbakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shakha/shakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
