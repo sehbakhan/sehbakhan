@@ -15,9 +15,6 @@ My experience includes projects focused on predicting optimization savings and a
 I am excited about the opportunity to collaborate on data-driven initiatives, delve into predictive modelling, and contribute to open-source analytics and machine learning projects. Let’s harness the power of data together!
 
 ## <h2 align=left> Connect with me </h2>
-
-
-    
   
   <a href="https://github.com/sehbakhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -25,9 +22,8 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <a href="https://www.linkedin.com/in/sehbakhan27/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/sehbakhan">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samiksha mirjha" height="30" width="40" />
-  </a>
+
+  
 <!--   </a>
   <a href="https://leetcode.com/u/sehbakhan43/">
     <img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&color=%23000" alt="Leetcode"/>
