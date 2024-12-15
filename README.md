@@ -2,12 +2,6 @@
   I'm Sehba</h1>
 <h3 align="center">Aspiring Data Analyst from India, eager to start my career in data science. I have a solid foundation in SQL, Python, and Pandas enabling me to analyze complex datasets and extract valuable insights. My passion for data visualization helps me turn raw data into compelling narratives that facilitate informed decision-making.</h3>
 
-<div align="center">
-  <h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/khushikumari05/count.svg" height="50" alt="Profile Views"  />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushikumari05" alt="khushikumari05" /></a> </p>
-</div>
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
@@ -46,18 +40,20 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
+<p align="center">
+  Feel free to reach out for collaborations, discussions, or just to say hi!
+</p>
 
-<!--
-**shakha/shakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Let's connect and collaborate on exciting projects together!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect%20with%20Me-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Connect with Me">
+</p>
+
+###
