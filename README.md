@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
 
-- 📫 How to reach me **sehbakhan43@gmail.com**[SEHBAKHAN-DataScientist-Pl3j.pdf]()
+- 📫 How to reach me **sehbakhan43@gmail.com**
 
 
 - 📄 Know about me [My Resume](https://github.com/user-attachments/files/18164844/SEHBAKHAN-DataScientist-Pl3j.pdf)
