@@ -6,9 +6,10 @@
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
 
-- 📫 How to reach me **sehbakhan43@gmail.com**
+- 📫 How to reach me **sehbakhan43@gmail.com**[SEHBAKHAN-DataScientist-Pl3j.pdf]()
 
-- 📄 Know about me [My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=673ed9d07ca4c4119e94da36)
+
+- 📄 Know about me [My Resume](https://github.com/user-attachments/files/18164844/SEHBAKHAN-DataScientist-Pl3j.pdf)
 
 My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
 
