@@ -84,12 +84,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="38" alt="anaconda logo"  />
 </div> -->
 
-<hr>
-<div style="display: flex; flex-direction: row;">
- <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=ABvenu&show_icons=true" />
- <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABVenu&layout=compact" />
- </div>
- <hr>
+
 
 <p align="center">
   Feel free to reach out for collaborations, discussions, or just to say hi!
