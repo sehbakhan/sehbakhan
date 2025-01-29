@@ -38,11 +38,14 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 ###
 
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,vscode,tensorflow,selenium,mysql,ai,github,flask,numpy,pandas,machinelearning&theme=light)](https://skillicons.dev)
+
 <h3 align="center">Tech Skills</h3>
 
 ###
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
