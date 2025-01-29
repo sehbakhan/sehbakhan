@@ -20,23 +20,6 @@ My experience includes projects focused on predicting optimization savings and a
 
 I am excited about the opportunity to collaborate on data-driven initiatives, delve into predictive modelling, and contribute to open-source analytics and machine learning projects. Let’s harness the power of data together!
 
-## <h2 align=left> Connect with me </h2>
-  
-  <a href="https://github.com/sehbakhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sehbakhan27/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  
-<!--   </a>
-  <a href="https://leetcode.com/u/sehbakhan43/">
-    <img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&color=%23000" alt="Leetcode"/>
-  </a> -->
-
-</div>
-
 ###
 
 <h3 align="center">Tech Skills</h3>
@@ -106,7 +89,8 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehbaKhan&layout=compact" />
  </div>
+  [github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
  <hr>
- [github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
+
 ###
 
