@@ -13,7 +13,7 @@
 
 
  <img align = "centre"
-scr = "https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png"  width = '100%'/> &nbsp:
+src = "https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png"  width = '100%'/> &nbsp:
 
 My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
 
