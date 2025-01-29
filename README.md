@@ -46,7 +46,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,vscode,tensorflow,selenium,mysql,ai,github,flask,numpy,pandas,machinelearning&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,vscode,tensorflow,selenium,mysql,ai,github,flaskg&theme=light)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
