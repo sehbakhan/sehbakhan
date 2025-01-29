@@ -52,7 +52,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="13" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -101,6 +101,11 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 <p align="center">
   <img src="https://img.shields.io/badge/Connect%20with%20Me-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Connect with Me">
 </p>
-
+<hr>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
+ <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehbaKhan&layout=compact" />
+ </div>
+ <hr>
 ###
 ![github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
