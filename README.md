@@ -65,25 +65,27 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <img width="12" />
 </div>
 
+</p>
+<hr>
 
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="38" alt="jupyter logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="38" alt="python logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="38" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="38" alt="pandas logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="38" alt="numpy logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="38" alt="visualstudio logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="38" alt="github logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="38" alt="anaconda logo"  />
-</div> -->
-
+  <i><h3 align="center">Contact/Connect:</h3></i>
+  <p align = "center">
+  <a href="mailto:sehbakhn43@gmail.com">
+    <img align="center" alt="Sehbakhan @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
+  </a>
+  <a href="[https://www.linkedin.com/in/SehbaKhan27/]">
+    <img align="center" alt="Sehbakhan @LinkedIN" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" />&nbsp;
+  <a href="https://github.com/sehbakhan" >
+    <img align="center" alt="Sehba @ Github" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-128.png" />&nbsp;
+  </a>
+  <a href="https://docs.google.com/document/d/1h3d0T0cGLxMR_t7DC2ejx0cCk4tuk6vZ/edit" >
+    <img align="center" alt="Sehba @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
+  </a>
+  <a href="telto:+91-7425809438" >
+    <img align="center" alt="Sehba @ Mobile" width="45px" src="https://cdn0.iconfinder.com/data/icons/network-and-communication-1-2/128/3-128.png" />&nbsp;
+  </a>
+</p>
+<hr>
 
 
 <p align="center">
@@ -91,8 +93,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 </p>
 
 ###
-
-<h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
 
 <p align="center">
   🚀 Let's connect and collaborate on exciting projects together!
@@ -103,9 +103,10 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 </p>
 <hr>
 <div style="display: flex; flex-direction: row;">
- <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
+ <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehbaKhan&layout=compact" />
  </div>
  <hr>
+ [github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
 ###
-![github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
+
