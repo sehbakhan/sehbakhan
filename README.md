@@ -1,13 +1,14 @@
-<h1 align="center">👋 Hi, 
+<h1 align="center">Hello👋, 
   I'm Sehba</h1>
 <h3 align="center">Aspiring Data Analyst from India, eager to start my career in data science. I have a solid foundation in SQL, Python, and Pandas enabling me to analyze complex datasets and extract valuable insights. My passion for data visualization helps me turn raw data into compelling narratives that facilitate informed decision-making.</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis, Data Engineering**
+
+- 👯 I’m looking to collaborate on ...AI,ML
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine learning, NLP, Deep Learning**
 
 - 📫 How to reach me **sehbakhan43@gmail.com**
-
 
 - 📄 Know about me [My Resume](https://github.com/user-attachments/files/18164844/SEHBAKHAN-DataScientist-Pl3j.pdf)
 
@@ -38,8 +39,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 ###
 
-
-
 <h3 align="center">Tech Skills</h3>
 
 ###
@@ -53,7 +52,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -84,6 +83,13 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
   <img width="8" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="38" alt="anaconda logo"  />
 </div> -->
+
+<hr>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=ABvenu&show_icons=true" />
+ <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABVenu&layout=compact" />
+ </div>
+ <hr>
 
 <p align="center">
   Feel free to reach out for collaborations, discussions, or just to say hi!
