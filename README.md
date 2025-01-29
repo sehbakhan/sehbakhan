@@ -89,8 +89,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehbaKhan&layout=compact" />
  </div>
-  [github](https://github.com/user-attachments/assets/4a45be71-5eeb-4e7d-bf7e-22e5066ba551)
  <hr>
 
 ###
-
+![](https://komarev.com/ghpvc/?username=ABVenu&color=orange)
