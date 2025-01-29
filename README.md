@@ -11,6 +11,8 @@
 
 - 📄 Know about me [My Resume](https://github.com/user-attachments/files/18164844/SEHBAKHAN-DataScientist-Pl3j.pdf)
 
+- https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png
+
 My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
 
 I am excited about the opportunity to collaborate on data-driven initiatives, delve into predictive modelling, and contribute to open-source analytics and machine learning projects. Let’s harness the power of data together!
