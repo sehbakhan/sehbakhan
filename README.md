@@ -77,6 +77,13 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 ###
 
+
+
+<p align="center">
+  🚀 Let's connect and collaborate on exciting projects together!
+</p>
+
+<br/><br/>
 <hr/>
 
 <h2>🐍 My Contributions 🐍</h2>
@@ -87,10 +94,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 </picture>
 </div>
 <hr/>
-
-<p align="center">
-  🚀 Let's connect and collaborate on exciting projects together!
-</p>
 
 <hr/>
 <h3 align="center">⚡Stars⚡</h3>
