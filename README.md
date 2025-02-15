@@ -14,7 +14,7 @@
 
 
  <img align = "centre"
-src = "[https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966]"  width = '100%'/> 
+src = "https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif"  width = '100%'/> 
 
 My experience includes projects focused on predicting optimization savings and analyzing customer purchasing behaviours. I bring expertise in exploratory data analysis (EDA), data preprocessing, natural language processing (NLP), deep learning, and model optimization.
 
