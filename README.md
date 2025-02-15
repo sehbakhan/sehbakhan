@@ -77,13 +77,24 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 ###
 
+<hr/>
+
+<h2>🐍 My Contributions 🐍</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sehbakhan/sehbakhan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sehbakhan/sehbakhan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sehbakhan/sehbakhan/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<hr/>
+
 <p align="center">
   🚀 Let's connect and collaborate on exciting projects together!
 </p>
 
 <hr/>
 <h3 align="center">⚡Stars⚡</h3>
-<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehbakhan&hide_progress=true&theme=monokai" alt=sehbakhan />
+<img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehbakhan&hide_progress=true&theme=monokai" alt=sehbakhan />
 
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sehbakhan&theme=monokai" alt="sehbakhan" /></p>
 
@@ -101,14 +112,6 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sehbakhan&theme=monokai"/>
 <hr/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20Me-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Connect with Me">
-</p>
-<hr>
-<div style="display: flex; flex-direction: row;">
- <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api?username=SehbaKhan&show_icons=true" />
- <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehbaKhan&layout=compact" />
- </div>
- <hr>
+
 
 ###
