@@ -83,22 +83,22 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 <hr/>
 <h3 align="center">⚡Stars⚡</h3>
-<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehbakhan&hide_progress=true&theme=monokai" alt=SutharMahendra />
+<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehbakhan&hide_progress=true&theme=monokai" alt=sehbakhan />
 
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SutharMahendra&theme=monokai" alt="SutharMahendra" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sehbakhan&theme=monokai" alt="sehbakhan" /></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">⚡Statistics ⚡</h3>
 <div align="center">
-<a href="https://github.com/SutharMahendra">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SutharMahendra&theme=2077" height="180em" />
+<a href="https://github.com/sehbakhan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehbakhan&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SutharMahendra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sehbakhan&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutharMahendra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehbakhan&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph⚡</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SutharMahendra&theme=monokai"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sehbakhan&theme=monokai"/>
 <hr/>
 
 <p align="center">
