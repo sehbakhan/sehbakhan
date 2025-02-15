@@ -83,7 +83,7 @@ I am excited about the opportunity to collaborate on data-driven initiatives, de
 
 <hr/>
 <h3 align="center">⚡Stars⚡</h3>
-<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutharMahendra&hide_progress=true&theme=monokai" alt=SutharMahendra />
+<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehbakhan&hide_progress=true&theme=monokai" alt=SutharMahendra />
 
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SutharMahendra&theme=monokai" alt="SutharMahendra" /></p>
 
